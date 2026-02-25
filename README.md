@@ -1,62 +1,82 @@
-# Business Sales Performance & Growth Analysis
+# 📊 Business Sales Performance & Growth Analysis
 
-## Project Overview
-This project presents a time-series analysis of historical monthly sales data (1958–1960) to identify long-term growth trends and seasonal demand patterns.
+## 📌 Project Overview
 
-The objective is to demonstrate how exploratory data analysis and time-series techniques can support business decision-making.
+This project analyzes historical business sales data using time-series techniques to identify growth trends, seasonal patterns, and support data-driven strategic decision-making.
 
----
-
-## Business Context
-Understanding historical sales performance enables businesses to:
-
-- Detect long-term growth trends  
-- Identify seasonal fluctuations  
-- Support strategic planning  
-- Improve forecasting accuracy  
-- Guide data-driven decision-making  
+The objective is to transform raw sales data into actionable business insights through structured analysis and visualization.
 
 ---
 
-## Dataset Description
-The dataset contains monthly sales values across three years (1958–1960).
+## 🎯 Business Objective
 
-- Each row represents a month  
-- Each column represents a year  
-- Data was transformed from wide format to long format for proper time-series analysis  
-
----
-
-## Tools & Technologies
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Jupyter Notebook  
+- Identify long-term growth trends
+- Detect seasonal demand patterns
+- Calculate year-over-year (YoY) growth
+- Support forecasting improvements
+- Provide data-driven business recommendations
 
 ---
 
-## Analytical Approach
+## 🗂 Dataset Description
+
+The dataset contains monthly sales data over multiple years.
+
+Main variables include:
+- Date (Year & Month)
+- Sales Revenue
+
+The data was transformed into time-series format to enable trend and seasonality analysis.
+
+---
+
+## 🛠 Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## 🔎 Analytical Approach
+
 The analysis includes:
 
-- Data cleaning and validation  
-- Data transformation (wide to long format)  
-- Time-series visualization  
-- Year-over-year growth calculation  
-- Seasonal pattern identification  
-- Business insight interpretation  
+- Data cleaning and validation
+- Data transformation (wide to long format)
+- Time-series visualization
+- Year-over-year growth calculation
+- Seasonal pattern identification
+- Business insight interpretation
 
 ---
 
-## Key Insights
-- Sales show a consistent upward trend across the three years.  
-- Clear seasonal patterns are observable.  
-- Year-over-year growth suggests sustained business expansion.  
+## 📈 Key Insights
+
+- Sales show a consistent upward trend across the analyzed period.
+- Clear seasonal patterns are observable.
+- Year-over-year growth suggests sustained business expansion.
+- Certain months consistently outperform others, indicating strong seasonal demand.
 
 ---
 
-## Project Structure
+## 🧠 Skills Demonstrated
+
+- Time-Series Analysis
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- Business Insight Generation
+- Data Visualization
+- Analytical Thinking
+
+
+---
+
+## 📁 Project Structure
+
 business-sales-time-series-analysis
 │
 ├── data/
@@ -65,11 +85,13 @@ business-sales-time-series-analysis
 ├── notebooks/
 │ └── sales_analysis.ipynb
 │
-└── README.md
+├── README.md
+└── .gitignore
+
 
 ---
 
-## Author
+## 👩‍💻 Author
+
 Beatriz Demétrio  
-Data Analytics professional transitioning from a legal background into Data Analysis.  
-Based in Dublin, Ireland.
+Data Analytics student transitioning from a legal background into data-driven business analysis.
