@@ -63,6 +63,22 @@ The analysis includes:
 
 ---
 
+## 📊 Sales Trend
+
+The visualization below highlights the consistent upward sales trend across the analyzed period.
+
+![Sales Trend](images/sales_trend.png)
+
+---
+
+## 📅 Seasonal Pattern
+
+The chart below shows recurring seasonal demand patterns, with certain months consistently outperforming others.
+
+![Seasonality](images/seasonality.png)
+
+---
+
 ## 🧠 Skills Demonstrated
 
 - Time-Series Analysis
